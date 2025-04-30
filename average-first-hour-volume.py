@@ -12,8 +12,8 @@ def est_time_formatter(x, pos):
 # Parameters
 ticker = "AAPL"
 # Define your new date range (April 3, 2025)
-start = datetime.date(2024, 1, 1)
-end = datetime.date(2025, 3, 15)
+start = datetime.date(2025, 4, 3)
+end = datetime.date(2025, 4, 4)
 interval = "1h"
 
 # Download 10-minute interval data
